@@ -97,7 +97,7 @@ wrap.service('ajax', function ajax() {
 </body></html>
 ```
 
-#### 演示DENO : [REWRAP-AJAX TEST](https://koringz.github.io/rewrap/rewarper%200.12V/src/test.html)
+#### 演示DEMO : [REWRAP-AJAX TEST](https://koringz.github.io/rewrap/rewarper%200.12V/src/test.html)
 
 #### Blog简介 : [REWRAP-AJAX TEST](http://www.cnblogs.com/hao5599/p/7695902.html)
 
